@@ -1,0 +1,22 @@
+# Go binary
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build
+*.o
+*.a
+*.test
+
+# SQLite database
+*.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+/vendor/
+/go.sum
